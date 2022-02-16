@@ -9,3 +9,4 @@ Our project will enable the user to upload the photo of the food they are eating
 according to that, our application will help to classify the food and then estimate the
 approximate number of calories in the meal.
 
+file:///Users/manideep/Desktop/Screenshot%202022-02-16%20at%202.18.10%20PM.png
