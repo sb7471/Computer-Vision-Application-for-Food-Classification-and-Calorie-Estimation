@@ -12,3 +12,8 @@ approximate number of calories in the meal.
 ## Architecture
 
 ![image](https://user-images.githubusercontent.com/72674093/154350210-e4d4cbda-4774-4d3c-abcb-6e803534104f.png)
+
+### Dataset
+We have created a food dataset consisting of 1500 categories of food images. Each category consists of food images captured in different angles
+
+![image](https://user-images.githubusercontent.com/72674093/154350739-cbdcd132-296f-4cd9-9137-a4545afac988.png)
