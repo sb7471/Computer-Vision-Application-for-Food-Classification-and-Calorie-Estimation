@@ -8,3 +8,4 @@ settle for a mere approximation of miscalculation.
 Our project will enable the user to upload the photo of the food they are eating and
 according to that, our application will help to classify the food and then estimate the
 approximate number of calories in the meal.
+
